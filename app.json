@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "attendance-app-pro60",
+    "slug": "snack-2da2caec-4270-4e0f-8c6a-7faeeaa83683",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.vani.AttendanceApp",
+      "versionCode": 1
+    }}
+}
